@@ -4,9 +4,7 @@ import AppBar from '@mui/material/AppBar';
 import IconButton from '@mui/material/IconButton';
 import InputBase from '@mui/material/InputBase';
 
-
 import { SearchForm } from './Searchbar.styled.js';
-
 
 const Searchbar = ({ onSubmit }) => {
     return (
